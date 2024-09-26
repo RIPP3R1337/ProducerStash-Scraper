@@ -25,9 +25,12 @@ You could edit the script yourself too if the website has got more content. I'll
 ### How do i use it?
 
 1. Really simple! Now i'm not sure a default windows version without python would be able to run these but just in case download [Python](https://www.python.org/downloads/) here.
-2. Either download this repo as .zip or open your CMD/Powershell wherever you like and type `git clone https://github.com/RIPP3R1337/producer-stashScraper.git`
-3. Open CMD / Powershell in the directory these scripts are located.
-4. Type: `python3 scraper.py` and when that one is done do `python3 download-scraper.py`
-5. These 2 should generate .txt files within the scame directory. You're probably more interested in the download links .txt :)
+2. Either download this repo as .zip or open your CMD/Powershell wherever you like and paste this:
+```
+git clone https://github.com/RIPP3R1337/producer-stashScraper.git
+```
+4. Open CMD / Powershell in the directory these scripts are located.
+5. Type: `python3 scraper.py` and when that one is done do `python3 download-scraper.py`
+6. These 2 should generate .txt files within the scame directory. You're probably more interested in the download links .txt :)
 
 That should be all, enjoy these kits <3!
