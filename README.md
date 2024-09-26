@@ -31,6 +31,6 @@ git clone https://github.com/RIPP3R1337/producer-stashScraper.git
 ```
 4. Open CMD / Powershell in the directory these scripts are located.
 5. Type: `python3 scraper.py` and when that one is done do `python3 download-scraper.py`
-6. These 2 should generate .txt files within the scame directory. You're probably more interested in the download links .txt :)
+6. These 2 should generate .txt files within the same directory. You're probably more interested in the download links .txt :)
 
 That should be all, enjoy these kits <3!
