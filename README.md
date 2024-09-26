@@ -13,13 +13,7 @@ You could edit the script yourself too if the website has got more content. I'll
   
 **Q: Do you take suggestions?**
 - **A: Ofcourse! I would love suggestions i could add to this script**
-
----
-
-**Planning to add:**
-- Make it so we have one script rather than 2
-- When you already did a scan and new stuff gets added to the website it will pull that rather than the files you've already scraped.
-
+  
 ---
 
 ### How do i use it?
@@ -30,6 +24,13 @@ You could edit the script yourself too if the website has got more content. I'll
 git clone https://github.com/RIPP3R1337/ProducerStash-Scraper.git
 ```
 4. Open CMD / Powershell in the directory these scripts are located.
+
+---
+
+**Planning to add:**
+- Make it so we have one script rather than 2
+- When you already did a scan and new stuff gets added to the website it will pull that rather than the files you've already scraped.
+
 5. Type: `python3 scraper.py` and when that one is done do `python3 download-scraper.py`
 6. These 2 should generate .txt files within the same directory. You're probably more interested in the download links .txt :)
 
