@@ -32,7 +32,7 @@ git clone https://github.com/RIPP3R1337/ProducerStash-Scraper.git
 **Planning to add:**
 - Make it so we have one script rather than 2
 - When you already did a scan and new stuff gets added to the website it will pull that rather than the files you've already scraped.
-
+- Dynamically search for website pages rather than hardcoding the pages urls
 
 
 That should be all, enjoy these kits <3!
