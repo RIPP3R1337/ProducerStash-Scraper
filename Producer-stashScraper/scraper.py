@@ -8,6 +8,7 @@ def clearScreen():
 
 base_url = 'https://producerstash.com'
 
+print(Fore.RED + "\nMade with ♥ from RIPP3R\n")
 
 all_kits_urls = []
 

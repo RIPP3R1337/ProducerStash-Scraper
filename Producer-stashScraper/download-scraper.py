@@ -19,7 +19,8 @@ with open('all_links.txt', 'r') as file:
 download_links = []
 
     
-print("This might take a second, sit back and get a coffee...or whatever")
+print("\nThis might take a second, sit back and get a coffee...or whatever")
+print(Fore.RED + "\nMade with ♥ from RIPP3R\n")
 SleepNClear()
 
 # Loop through each kit URL
@@ -44,16 +45,15 @@ for i, kit_url in enumerate(kit_urls):
         print(Fore.RED + f"Invalid link {i+1}: {kit_url} - {e}")
 
 
-
+print("\n\nWe're done!")
 SleepNClear()
 
-print(f'Total download links extracted: {len(download_links)}')
-print(download_links)
+print(Fore.YELLOW + f'Total download links extracted: {len(download_links)}')
 
 
-with open('~/dowload_links_mega.txt', 'w') as file:
+with open('download_links_mega.txt', 'w') as file:
     for link in download_links:
         file.write(link + '\n\n')
 
 
-print("Download links have been extracted and saved to download_links.txt.")
+print(Fore.YELLOW + "Download links have been extracted and saved to download_links.txt.")
