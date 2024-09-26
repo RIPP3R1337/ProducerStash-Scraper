@@ -7,8 +7,8 @@ from colorama import Fore, Back, Style, init
 
 
 def SleepNClear():
-    os.system("cls")
     time.sleep(5)
+    os.system("cls")
 
 
 # Read contents from website that's scraped
