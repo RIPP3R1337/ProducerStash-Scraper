@@ -50,11 +50,6 @@ while page_num <= last_page_num:
     for item in soup.find_all('div', class_='pcsl-item'):
         link = item.find('a')
         if link and link.get('href'):
-
-            if "discord.com" in link or "discord.gg" in link:
-                print(Fore.YELLOW + f"Ignored discord link: {link}")
-                continue
-
             all_pages_url.append(link.get('href'))
 
     print(Fore.GREEN + f"Found {page_num} of {last_page_num} pages")
