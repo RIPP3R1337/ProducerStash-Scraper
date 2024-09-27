@@ -6,7 +6,7 @@ Python scripts which will scrape the websites pages and download links.
 
 It scans all url pages (as of currently what the website has to offer) and then proceeds to save those urls in a .txt files. Running the second python script will also scrape the mega download links from the website.
 
-You could edit the script yourself too if the website has got more content. I'll probably update this till i can't or for when the website goes down. There might be a possibility that when it goes down the MEGA files go with it (But lets hope it wont) 
+You could edit the script yourself too to your own liking. I'll probably update this till i can't or for when the website goes down. There might be a possibility that when it goes down the MEGA files go with it (But lets hope it wont) 
 
 **Q: Why did you make this?**
 - **A: Because i wanted the download links before the website might face a DMCA. Probably wont but you never know:)**
