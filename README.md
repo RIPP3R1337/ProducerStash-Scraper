@@ -24,7 +24,7 @@ You could edit the script yourself too to your own liking. I'll probably update 
 git clone https://github.com/RIPP3R1337/ProducerStash-Scraper.git
 ```
 4. Open CMD / Powershell in the directory these scripts are located.
-5. pip install -r requirements.txt Just so we're making sure you have everything installed!
+5. pip3 install -r requirements.txt Just so we're making sure you have everything installed!
 6. Type: `python3 scraper.py` and when that one is done do `python3 download-scraper.py`
 7. These 2 should generate .txt files within the same directory. You're probably more interested in the download links .txt :)
 
