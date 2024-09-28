@@ -18,14 +18,15 @@ You could edit the script yourself too to your own liking. I'll probably update 
 
 ### How do i use it?
 
-1. Really simple! Now i'm not sure a default windows version without python would be able to run these but just in case download [Python](https://www.python.org/downloads/) here.
+1. Really simple! Now i'm not sure a default windows version without python would be able to run these but just in case download for windows: [Python](https://www.python.org/downloads/) here. MacOS here: [PythonMacOS](https://www.python.org/downloads/macos/)
 2. Either download this repo as .zip or open your CMD/Powershell wherever you like and paste this:
 ```
 git clone https://github.com/RIPP3R1337/ProducerStash-Scraper.git
 ```
 4. Open CMD / Powershell in the directory these scripts are located.
-5. Type: `python3 scraper.py` and when that one is done do `python3 download-scraper.py`
-6. These 2 should generate .txt files within the same directory. You're probably more interested in the download links .txt :)
+5. pip install -r requirements.txt Just so we're making sure you have everything installed!
+6. Type: `python3 scraper.py` and when that one is done do `python3 download-scraper.py`
+7. These 2 should generate .txt files within the same directory. You're probably more interested in the download links .txt :)
 
 ---
 
