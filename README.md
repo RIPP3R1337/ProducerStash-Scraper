@@ -28,6 +28,12 @@ git clone https://github.com/RIPP3R1337/ProducerStash-Scraper.git
 6. Type: `python3 scraper.py` and when that one is done do `python3 download-scraper.py`
 7. These 2 should generate .txt files within the same directory. You're probably more interested in the download links .txt :)
 
+
+If you really don't know what's going on, here a video:
+
+[Tutorial](https://youtu.be/eJweV8OVT2E?si=8fKTurffVKdsOEW9) This should be almost identical to macOS / Linux.
+
+
 ---
 
 **Planning to add:**
