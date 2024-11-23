@@ -1,4 +1,4 @@
-# ProducerStash-Scraper
+# ProducerStash-Scraper (Currently outdated, will update when i can)
 Python scripts which will scrape the websites pages and download links.
 
 
